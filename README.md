@@ -1,6 +1,6 @@
 ## Scratch Resources
 
-The documentation for this site is [here](http://coderdojotc.github.io/scratch/).
+The documentation for this site is [here](http://jetannenbaum.github.io/scratch/).
 
 This repository contains resources for the Scratch code group at CoderDojo Twin Cities.
 
