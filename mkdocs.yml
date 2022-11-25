@@ -13,9 +13,9 @@ nav:
   - Contact: contact.md
 
 site_description: 'Resources for teaching Scratch to CoderDojo Twin Cities students.'
-site_author: 'Dan McCreary'
+site_author: 'Dan McCreary and J.E. Tannenbaum'
 repo_name: 'Scratch'
-repo_url: 'https://github.com/CoderDojoTC/scratch'
+repo_url: 'https://github.com/jetannenbaum/scratch'
 edit_uri: 'blob/master/docs'
 theme:
   name: material
