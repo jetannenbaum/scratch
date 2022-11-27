@@ -1,4 +1,4 @@
-nsite_name: 'CoderDojo TC Scratch'
+site_name: 'CoderDojo TC Scratch'
 nav:
   - Shared Mentor Resources: https://jetannenbaum.github.io/CoderDojoTC/
   - Intro:
