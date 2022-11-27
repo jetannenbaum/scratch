@@ -1,6 +1,6 @@
-site_name: 'CoderDojo TC Scratch'
+nsite_name: 'CoderDojo TC Scratch'
 nav:
-  - Shared Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
+  - Shared Mentor Resources: https://jetannenbaum.github.io/CoderDojoTC/
   - Intro:
     - Getting Started: intro/01-getting-started.md
     - Summary of Labs: labs.md
@@ -11,6 +11,7 @@ nav:
     - Conditionals: intro/05.1-conditionals.md
     - Functions: intro/06-functions.md
     - Functions With Parameters: intro/07-functions-with-parameters.md
+    - Lists: intro/08-lists.md
   - Contact: contact.md
 
 site_description: 'Resources for teaching Scratch to CoderDojo Twin Cities students.'
