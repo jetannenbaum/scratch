@@ -1,6 +1,6 @@
 site_name: 'CoderDojo TC Scratch'
 nav:
-  - Shared Mentor Resources: https://jetannenbaum.github.io/CoderDojoTC/
+  - Shared Mentor Resources: https://coderdojotc.github.io/CoderDojoTC/
   - Intro:
     - Getting Started: intro/01-getting-started.md
     - Summary of Labs: labs.md
